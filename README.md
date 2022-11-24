@@ -26,7 +26,7 @@ Actualmente se encuentra en su primera versión funcional, cuyas capacidades son
 - Obtener metadatos de una fotografía.
 - Descargar imagénes, comentarios, ID, etc. De una cuenta de Instagram (consultar por nick).
 
-* Cuando se dice "persona", también puede ser el nombre de una empresa o entidad.
+:warning: Cuando se dice "persona", también puede ser el nombre de una empresa o entidad. :warning:
 
 ![menu](https://user-images.githubusercontent.com/118806341/203647751-f11df0c5-9703-43c2-9aea-ceecc64fdf32.PNG)
 
