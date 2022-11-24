@@ -26,6 +26,7 @@ Actualmente se encuentra en su primera versión funcional, cuyas capacidades son
 - Obtener metadatos de una fotografía.
 - Descargar imagénes, comentarios, ID, etc. De una cuenta de Instagram (consultar por nick).
 
+* Cuando se dice "persona", también puede ser el nombre de una empresa o entidad.
 
 ![menu](https://user-images.githubusercontent.com/118806341/203647751-f11df0c5-9703-43c2-9aea-ceecc64fdf32.PNG)
 
@@ -86,6 +87,8 @@ Visualizar el reporte de forma manual:
 Este desarollo vino inspirado por la gran problemática existente debido al __elevado número de ataques informáticos__ registrados en la actualidad. El objetivo de esta herramienta es __facilitar las tareas de OSINT__ para que cualquier persona con conocimientos mínimos pueda comprobar cuánta información se puede extraer de sí mismo. 
 
 De esta forma, se puede __conseguir una concienciación de los grandes peligros a los que estamos expuestos__ continuamente, y que no somos conscientes del todo. Hasta un dato tan "insignificante" como puede ser nuestro correo electrónico o teléfono, puede conllevar a sufrir ataques de ingeniería social, Phishing... O incluso, delitos más graves.
+
+Además, también puede contribuir y facilitar a la investigación policial, etc.
 
 No es malo utilizar redes sociales ni aportar información nuestra, pero debemos hacerlo con el cuidado necesario.
 
